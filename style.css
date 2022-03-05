@@ -1,0 +1,10 @@
+#top-banner {
+    width: 100%;
+    background:grey;
+    height: 60px;   
+}
+
+h1  {
+    position: relative;
+    text-align: center;
+}
